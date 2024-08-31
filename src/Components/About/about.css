@@ -1,0 +1,15 @@
+.aboutBg{
+    background-image: url(../../assets/aboutbg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size:65%;
+}
+.spiral{
+    background-image: url(../../assets/spiral.svg);
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-size:100%;
+    margin-left: 7rem;
+
+  
+} 
